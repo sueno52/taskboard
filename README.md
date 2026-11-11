@@ -29,3 +29,6 @@ TaskBoard дозволяє створювати завдання, ставити
 
 ## Скріншот
 ![Головна сторінка](images/screenshot.png)
+## Демо
+
+[Відкрити сайт](https://sueno52.github.io/taskboard/)
