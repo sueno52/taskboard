@@ -49,4 +49,4 @@
    в «Дошка завдань: керуй завданнями», видалила службові рядки і зробила commit.
 
 5. У історії 7 commit-ів:
-![alt text](image-1.png)
+![Граф git log --oneline --graph](images/git-graph.png)
